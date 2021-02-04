@@ -4,7 +4,7 @@
 
 - [Website](https://iqiq.ml/)
 - [Discord](https://iqiq.ml/discord)
-
+- [Twitter](https://iqiq.ml/twitter)
 
 ## Languages and Tools:
 <ul>

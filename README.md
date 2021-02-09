@@ -5,6 +5,7 @@
 - [Website](https://iqiq.ml/)
 - [Discord](https://iqiq.ml/discord)
 - [Twitter](https://iqiq.ml/twitter)
+- [instagram](https://iqiq.ml/instagram)
 
 ## Languages and Tools:
 <ul>

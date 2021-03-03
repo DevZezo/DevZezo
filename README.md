@@ -7,7 +7,7 @@
 - [Twitter](https://iqiq.ml/twitter)
 - [instagram](https://iqiq.ml/instagram)
 
-## Languages and Tools:
+## lnguages and Tools:
 <ul>
     <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html">
       <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css">
@@ -27,6 +27,10 @@
 <br>
 
 ## Github:
+<img src="https://github-readme-stats.vercel.app/api?username=DevZezo&show_icons=true&theme=radical">
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevZezo&layout=compact)](https://github.com/anuraghazra/github-readme-stats">
+
 <ul>
     
 

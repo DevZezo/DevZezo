@@ -27,7 +27,7 @@
            <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react">
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap">
 <img align="left" width="26px" src="https://discord.js.org/static/icons/favicon-32x32.png" alt="discord.js">
-<img align="left" width="26px" src="https://discord.js.org/static/icons/favicon-32x32.png" alt="discord.js">
+<img align="left" width="26px" src="https://cdn.discordapp.com/icons/336642139381301249/3aa641b21acded468308a37eef43d7b3.webp?size=1024" alt="discord.py">
 
 </ul>
 <br>
